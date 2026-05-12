@@ -1,72 +1,71 @@
 # 📱 Screenshot Copywriting — All 24 Markets
 
-> **8 screenshots per market × 24 markets = 192 conversion-optimized screenshot texts**
-
----
+> 192 conversion-optimized screenshot texts (24 markets × 8 screenshots each)
 
 ## 🎯 The 8-Screenshot Conversion Formula
 
-| # | Purpose | Psychology Trigger |
-|---|---------|-------------------|
-| 1 | **HOOK** | Stop the scroll (70% decide here!) |
-| 2 | **VALUE** | FREE + Numbers |
-| 3 | **AUDIO** | Lifestyle benefit |
-| 4 | **CATEGORIES** | Variety & depth |
-| 5 | **SOCIAL PROOF / AI** | Trust signals |
-| 6 | **OFFLINE** | Practical utility |
-| 7 | **HABIT** | Long-term identity |
-| 8 | **CTA** | Clear action |
+```
+Screenshot 1: HOOK         ⚡ Stop the scroll (70% decide here!)
+Screenshot 2: VALUE        💎 Show free value
+Screenshot 3: AUDIO        🎧 Audio feature
+Screenshot 4: CATEGORIES   📚 Variety shown
+Screenshot 5: SOCIAL PROOF ⭐ Trust signals
+Screenshot 6: OFFLINE      📴 Convenience
+Screenshot 7: HABIT        🔥 Daily engagement
+Screenshot 8: CTA          ⬇️ Final call-to-action
+```
 
----
+## 📐 Design Specs
 
-## 📐 Design Specifications
-
-- **Size:** 1080 × 1920 pixels (portrait)
+- **Size:** 1080×1920 pixels (Portrait)
 - **Format:** PNG or JPEG
-- **Title font:** 60-80pt bold
-- **Subtitle font:** 30-40pt regular
-- **Layout:** Title TOP, Visual MIDDLE, Subtitle BOTTOM
-- **Contrast:** High readability from thumbnail
+- **Count:** 8 per market (use all 8!)
+- **Title Font:** 60-80pt Bold
+- **Subtitle Font:** 30-40pt Regular
+- **High contrast** text required
 
----
+## 🌍 Markets Index
 
-## 🗂️ All 24 Markets
+### 💎 Premium Markets
+- [USA — English](./01-usa-english.md)
+- [UK — British English](./02-uk-british.md)
+- [Germany — German](./05-germany-german.md)
+- [France — French](./06-france-french.md)
+- [Japan — Japanese](./08-japan-japanese.md)
+- [Korea — Korean](./09-korea-korean.md)
+- [UAE — Bilingual](./11-uae-bilingual.md)
 
-| # | Market | File |
-|---|--------|------|
-| 1 | 🇺🇸 USA | [01-usa-screenshots.md](./01-usa-screenshots.md) |
-| 2 | 🇬🇧 UK | [02-uk-screenshots.md](./02-uk-screenshots.md) |
-| 3 | 🇲🇽 Mexico | [03-mexico-screenshots.md](./03-mexico-screenshots.md) |
-| 4 | 🇪🇸 Spain | [04-spain-screenshots.md](./04-spain-screenshots.md) |
-| 5 | 🇩🇪 Germany | [05-germany-screenshots.md](./05-germany-screenshots.md) |
-| 6 | 🇫🇷 France | [06-france-screenshots.md](./06-france-screenshots.md) |
-| 7 | 🇮🇹 Italy | [07-italy-screenshots.md](./07-italy-screenshots.md) |
-| 8 | 🇯🇵 Japan | [08-japan-screenshots.md](./08-japan-screenshots.md) |
-| 9 | 🇰🇷 Korea | [09-korea-screenshots.md](./09-korea-screenshots.md) |
-| 10 | 🇸🇦 Saudi Arabia | [10-saudi-screenshots.md](./10-saudi-screenshots.md) |
-| 11 | 🇦🇪 UAE | [11-uae-screenshots.md](./11-uae-screenshots.md) |
-| 12 | 🇪🇬 Egypt | [12-egypt-screenshots.md](./12-egypt-screenshots.md) |
-| 13 | 🇹🇷 Turkey | [13-turkey-screenshots.md](./13-turkey-screenshots.md) |
-| 14 | 🇵🇱 Poland | [14-poland-screenshots.md](./14-poland-screenshots.md) |
-| 15 | 🇧🇷 Brazil | [15-brazil-screenshots.md](./15-brazil-screenshots.md) |
-| 16 | 🇮🇩 Indonesia | [16-indonesia-screenshots.md](./16-indonesia-screenshots.md) |
-| 17 | 🇹🇭 Thailand | [17-thailand-screenshots.md](./17-thailand-screenshots.md) |
-| 18 | 🇻🇳 Vietnam | [18-vietnam-screenshots.md](./18-vietnam-screenshots.md) |
-| 19 | 🇧🇩 Bangladesh | [19-bangladesh-screenshots.md](./19-bangladesh-screenshots.md) |
-| 20 | 🇵🇰 Pakistan | [20-pakistan-screenshots.md](./20-pakistan-screenshots.md) |
-| 21 | 🌍 Tamil | [21-tamil-screenshots.md](./21-tamil-screenshots.md) |
-| 22 | 🇮🇳 India Hindi | [22-india-hindi-screenshots.md](./22-india-hindi-screenshots.md) |
-| 23 | 🇮🇷 Iran | [23-iran-screenshots.md](./23-iran-screenshots.md) |
-| 24 | 🇷🇺 Russia | [24-russia-screenshots.md](./24-russia-screenshots.md) |
+### 🥇 High Markets
+- [Spain — Spanish](./04-spain-spanish.md)
+- [Italy — Italian](./07-italy-italian.md)
+- [Saudi Arabia — Arabic](./10-saudi-arabic.md)
 
----
+### 🥈 Mid-High Markets
+- [Turkey — Turkish](./13-turkey-turkish.md)
+- [Poland — Polish](./14-poland-polish.md)
+- [Brazil — Portuguese](./15-brazil-portuguese.md)
 
-## 🧠 Psychology Triggers Used
+### 🥉 Mass Markets
+- [Mexico — Spanish](./03-mexico-spanish.md)
+- [Egypt — Arabic](./12-egypt-arabic.md)
+- [Indonesia — Indonesian](./16-indonesia-indonesian.md)
+- [Thailand — Thai](./17-thailand-thai.md)
+- [Vietnam — Vietnamese](./18-vietnam-vietnamese.md)
+- [India Hindi](./22-india-hindi.md)
 
-- ✅ **Numbers:** 1000+, 15 min, 365
-- ✅ **FREE:** Universal trigger
-- ✅ **Time:** Daily, 15 minutes
-- ✅ **Transformation:** Change, improve
-- ✅ **FOMO:** Today, now
-- ✅ **Authority:** 1M+ users
-- ✅ **Emojis:** ⚡ 🎧 📚 ⭐ (sparingly)
+### 📊 Volume Markets
+- [Bangladesh — Bengali](./19-bangladesh-bengali.md)
+- [Pakistan — Urdu](./20-pakistan-urdu.md)
+- [Tamil — Tamil](./21-tamil.md)
+- [Iran — Persian](./23-iran-persian.md)
+- [Russia — Russian](./24-russia-russian.md)
+
+## 🧠 Conversion Psychology Used
+
+- ✅ **Numbers** (1000+, 15 min, 365)
+- ✅ **FREE** trigger (universal)
+- ✅ **Time** specificity (15 minutes)
+- ✅ **FOMO** (today, now, daily)
+- ✅ **Authority** (1M+ users)
+- ✅ **Benefit-focused** (not feature)
+- ✅ **Power words** (master, unlock, discover)
