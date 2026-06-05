@@ -1,4 +1,62 @@
 ```html
+<en-US>
+Welcome to the first release of Book Bites! 🚀 Discover bite-sized book summaries and audiobooks. Read or listen to best-selling non-fiction in minutes to boost your productivity and personal growth. Start your daily reading habit today!
+</en-US>
+<ar>
+مرحبًا بك في الإصدار الأول من Book Bites! 🚀 اكتشف ملخصات الكتب والكتب الصوتية. اقرأ أو استمع إلى أفضل الكتب غير الخيالية مبيعًا في دقائق لتعزيز نموك الشخصي وتطوير عادات القراءة لديك.
+</ar>
+<bn-BD>
+বুক বাইটস (Book Bites)-এর প্রথম রিলিজে আপনাকে স্বাগতম! 🚀 সেরা বইয়ের সারাংশ এবং অডিওবুক উপভোগ করুন। আপনার ব্যক্তিগত উন্নতি ও পড়ার অভ্যাস তৈরি করতে কয়েক মিনিটের মধ্যে সেরা নন-ফিকশন বই পড়ুন বা শুনুন।
+</bn-BD>
+<de-DE>
+Willkommen beim ersten Release von Book Bites! 🚀 Entdecken Sie Buchzusammenfassungen und Hörbücher. Lesen oder hören Sie Bestseller-Sachbücher in wenigen Minuten für Ihr persönliches Wachstum und bessere Lesegewohnheiten.
+</de-DE>
+<es-ES>
+¡Bienvenido a la primera versión de Book Bites! 🚀 Descubre resúmenes de libros y audiolibros. Lee o escucha libros de no ficción más vendidos en minutos para impulsar tu crecimiento personal y productividad.
+</es-ES>
+<fa-IR>
+به اولین نسخه Book Bites خوش آمدید! 🚀 خلاصه کتاب‌ها و کتاب‌های صوتی را کشف کنید. برای رشد شخصی خود، بهترین کتاب‌های غیرداستانی را در چند دقیقه بخوانید یا گوش دهید.
+</fa-IR>
+<fr-FR>
+Bienvenue dans la première version de Book Bites ! 🚀 Découvrez des résumés de livres et des livres audio. Lisez ou écoutez les best-sellers en quelques minutes pour votre développement personnel et votre productivité.
+</fr-FR>
+<hi-IN>
+बुक बाइट्स (Book Bites) के पहले रिलीज़ में आपका स्वागत है! 🚀 बेस्टसेलिंग किताबों के सारांश और ऑडियोबुक खोजें। अपने व्यक्तिगत विकास और उत्पादकता के लिए मिनटों में नॉन-फिक्शन किताबें पढ़ें या सुनें।
+</hi-IN>
+<id>
+Selamat datang di rilis pertama Book Bites! 🚀 Temukan ringkasan buku dan buku audio. Baca atau dengarkan buku non-fiksi terlaris dalam hitungan menit untuk pertumbuhan pribadi dan produktivitas Anda.
+</id>
+<it-IT>
+Benvenuto nella prima versione di Book Bites! 🚀 Scopri riassunti di libri e audiolibri. Leggi o ascolta i bestseller di saggistica in pochi minuti per la tua crescita personale e produttività.
+</it-IT>
+<ja-JP>
+Book Bitesの最初のリリースへようこそ！🚀 本の要約とオーディオブックを発見してください。自己啓発と生産性向上のために、ベストセラーのノンフィクションを数分で読んだり聞いたりできます。
+</ja-JP>
+<ko-KR>
+Book Bites의 첫 번째 릴리스에 오신 것을 환영합니다! 🚀 도서 요약 및 오디오북을 만나보세요. 개인의 성장과 생산성을 위해 베스트셀러 논픽션을 몇 분 만에 읽거나 들어보세요.
+</ko-KR>
+<pl-PL>
+Witamy w pierwszym wydaniu Book Bites! 🚀 Odkryj streszczenia książek i audiobooki. Czytaj lub słuchaj bestsellerowych książek z gatunku non-fiction w kilka minut, aby wesprzeć swój rozwój osobisty.
+</pl-PL>
+<pt-BR>
+Bem-vindo ao primeiro lançamento do Book Bites! 🚀 Descubra resumos de livros e audiolivros. Leia ou ouça os livros de não-ficção mais vendidos em minutos para o seu crescimento pessoal e produtividade.
+</pt-BR>
+<th>
+ยินดีต้อนรับสู่การเปิดตัวครั้งแรกของ Book Bites! 🚀 ค้นพบสรุปหนังสือและหนังสือเสียง อ่านหรือฟังหนังสือสารคดีขายดีในไม่กี่นาทีเพื่อการพัฒนาตนเองและเพิ่มประสิทธิภาพการทำงานของคุณ
+</th>
+<tr-TR>
+Book Bites'ın ilk sürümüne hoş geldiniz! 🚀 Kitap özetlerini ve sesli kitapları keşfedin. Kişisel gelişiminiz ve üretkenliğiniz için en çok satan kurgu dışı kitapları dakikalar içinde okuyun veya dinleyin.
+</tr-TR>
+<ur>
+بک بائٹس (Book Bites) کی پہلی ریلیز میں خوش آمدید! 🚀 کتابوں کے خلاصے اور آڈیو بکس دریافت کریں۔ اپنی ذاتی ترقی کے لیے منٹوں میں بہترین نان فکشن کتابیں پڑھیں یا سنیں۔
+</ur>
+<vi>
+Chào mừng bạn đến với phiên bản đầu tiên của Book Bites! 🚀 Khám phá tóm tắt sách và sách nói. Đọc hoặc nghe những cuốn sách phi hư cấu bán chạy nhất trong vài phút để phát triển bản thân và tăng năng suất.
+</vi>
+
+
+
+
 India
 
 Keywords:
