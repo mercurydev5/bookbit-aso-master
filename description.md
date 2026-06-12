@@ -398,9 +398,7 @@ BookBit is more than a book summary app — it is your daily companion
 for personal and professional growth. With 15 minutes a day, you can 
 transform your knowledge, mindset, and skills.
 
-Join thousands of readers who discover something new every single 
-day. Whether you want a quick book recap, daily summary, audio book 
-summary, or 15 min book summary on the go — BookBit has you covered.
+Discover something new every single day. Whether you want a quick book recap, daily summary, audio book summary, or 15 min book summary on the go — BookBit has you covered.
 
 Looking for a smart <b>summary app</b> that delivers fresh nonfiction 
 content daily? BookBit is your <b>daily learning app</b> for 
